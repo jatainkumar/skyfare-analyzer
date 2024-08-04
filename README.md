@@ -5,7 +5,7 @@
 This repository contains the materials and code, which focuses on deploying machine learning models using Flask. I developed a project to predict flight prices. I interpreted learning curves, evaluated and selected models, creating a web application with Flask, and deploying the app using Render.
 
 ## Relevant Links
-- [Web Application](https://flask-course-ml-project.onrender.com)
+- [Web Application](https://skyfare-analyzer.onrender.com)
 
 ## Project Details
 
